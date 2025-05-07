@@ -1,0 +1,9 @@
+# Core requirements
+numpy
+python-dotenv
+tqdm
+
+# Arabic-specific
+arabic-reshaper
+python-bidi
+pyarabicpip install -r requirements.txt

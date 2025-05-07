@@ -1,0 +1,19 @@
+2025-04-14 19:54:45,294 - INFO - Chargement des données...
+2025-04-14 19:55:18,888 - INFO - NER initialisé avec succès
+2025-04-14 19:55:18,888 - INFO - Début du traitement linguistique (stem, lemma, NER)...
+2025-04-14 19:56:34,647 - ERROR - Erreur NER pour 'الشراكه تقبل ال...': [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\DELL\\PycharmProjects\\NLProject\\.venv\\Lib\\site-packages\\farasa\\tmp\\tmpb68s0eyj'
+2025-04-14 19:56:38,279 - ERROR - Erreur NER pour 'السمك الميت يسب...': [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\DELL\\PycharmProjects\\NLProject\\.venv\\Lib\\site-packages\\farasa\\tmp\\tmp1lo9a4o5'
+2025-04-14 19:56:39,298 - ERROR - Erreur NER pour 'المشكلات فكر تت...': [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\DELL\\PycharmProjects\\NLProject\\.venv\\Lib\\site-packages\\farasa\\tmp\\tmptpl3e9ix'
+2025-04-14 20:01:00,767 - WARNING - Échec du stemming pour 'فانها': Internal Error occurred!
+2025-04-14 20:01:00,767 - WARNING - Échec du stemming pour 'بوسعك': Internal Error occurred!
+2025-04-14 20:01:00,768 - WARNING - Échec du stemming pour 'الجوده': Internal Error occurred!
+2025-04-14 20:01:00,769 - WARNING - Échec du stemming pour 'بالدعايه': Internal Error occurred!
+2025-04-14 20:01:00,769 - WARNING - Échec du stemming pour 'البادئ': Internal Error occurred!
+2025-04-14 20:01:00,770 - WARNING - Échec du stemming pour 'مرنا': Internal Error occurred!
+2025-04-14 20:01:00,771 - WARNING - Échec du stemming pour 'مصدر': Internal Error occurred!
+2025-04-14 20:01:00,771 - WARNING - Échec du stemming pour 'تشكك': Internal Error occurred!
+2025-04-14 20:04:58,017 - INFO - Chargement des données...
+2025-04-14 20:05:30,697 - INFO - NER initialisé avec succès
+2025-04-14 20:05:30,697 - INFO - Début du traitement linguistique (stem, lemma, NER)...
+2025-04-14 20:07:37,068 - INFO - NER détecté sur 0 entrées
+2025-04-14 20:07:37,068 - INFO - Temps d'exécution : 159.05 sec

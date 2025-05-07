@@ -1,0 +1,37 @@
+2025-04-03 11:48:31,282 - INFO - NER initialisé avec succès après test
+2025-04-03 11:48:31,282 - INFO - Test du texte: 'محمد من القاهرة'
+2025-04-03 11:48:56,018 - ERROR - ✗ FAILED - Attendu: ['محمد', 'القاهرة'], Trouvé: []
+2025-04-03 11:48:56,019 - DEBUG - Résultats détaillés:
+2025-04-03 11:48:56,019 - INFO - Test du texte: 'شركة مايكروسوفت في الولايات المتحدة'
+2025-04-03 11:49:27,712 - ERROR - ✗ FAILED - Attendu: ['مايكروسوفت', 'الولايات المتحدة'], Trouvé: []
+2025-04-03 11:49:27,713 - DEBUG - Résultats détaillés:
+2025-04-03 11:49:27,713 - INFO - Test du texte: 'ولد أحمد في بغداد عام 1990'
+2025-04-03 11:50:03,546 - ERROR - ✗ FAILED - Attendu: ['أحمد', 'بغداد'], Trouvé: []
+2025-04-03 11:50:03,550 - DEBUG - Résultats détaillés:
+2025-04-03 11:50:03,550 - INFO - Test du texte: 'جامعة القاهرة تأسست سنة 1908'
+2025-04-03 11:50:09,551 - WARNING - Erreur NER pour 'جامعة القاهرة ت...': [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\DELL\\PycharmProjects\\NLProject\\.venv\\Lib\\site-packages\\farasa\\tmp\\tmp2h4ouzoi'
+2025-04-03 11:50:09,552 - ERROR - ✗ FAILED - Attendu: ['جامعة القاهرة'], Trouvé: []
+2025-04-03 11:50:09,552 - DEBUG - Résultats détaillés:
+2025-04-03 11:50:09,552 - INFO - Test du texte: 'زيارة إلى باريس ونيويورك'
+2025-04-03 11:50:38,811 - ERROR - ✗ FAILED - Attendu: ['باريس', 'نيويورك'], Trouvé: []
+2025-04-03 11:50:38,811 - DEBUG - Résultats détaillés:
+2025-04-03 11:50:38,811 - INFO - Test du texte: 'لا يوجد أسماء هنا'
+2025-04-03 11:51:11,338 - INFO - ✓ PASSED
+2025-04-03 11:51:11,339 - DEBUG - Résultats détaillés:
+2025-04-03 11:51:11,339 - INFO - Test du texte: '12345'
+2025-04-03 11:51:46,426 - INFO - ✓ PASSED
+2025-04-03 11:51:46,426 - DEBUG - Résultats détaillés:
+2025-04-03 11:51:46,426 - INFO - Test du texte: ''
+2025-04-03 11:51:46,426 - INFO - ✓ PASSED
+2025-04-03 11:51:46,426 - DEBUG - Résultats détaillés:
+2025-04-03 11:51:46,426 - INFO - Test du texte: 'رئيس الوزراء البريطاني بوريس جونسون'
+2025-04-03 11:52:23,429 - ERROR - ✗ FAILED - Attendu: ['بوريس جونسون'], Trouvé: []
+2025-04-03 11:52:23,430 - DEBUG - Résultats détaillés:
+2025-04-03 11:52:23,430 - INFO - Test du texte: 'حدث ذلك في 15 يناير 2023'
+2025-04-03 11:53:04,582 - INFO - ✓ PASSED
+2025-04-03 11:53:04,583 - DEBUG - Résultats détaillés:
+2025-04-03 11:53:04,583 - INFO - 
+=== Résumé des tests ===
+2025-04-03 11:53:04,583 - INFO - Tests réussis: 4
+2025-04-03 11:53:04,583 - INFO - Tests échoués: 6
+2025-04-03 11:53:04,583 - INFO - Taux de réussite: 40.0%

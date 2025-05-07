@@ -1,0 +1,710 @@
+2025-04-03 13:45:59,038 - INFO - Starting text processing...
+2025-04-03 13:45:59,268 - INFO - Loaded 10 entries
+2025-04-03 13:45:59,268 - INFO - Initializing processors...
+2025-04-03 13:46:12,767 - INFO - Parallel processing started
+2025-04-03 13:46:20,681 - WARNING - No stemming for: شابه
+2025-04-03 13:46:20,698 - WARNING - No stemming for: فرخ
+2025-04-03 13:46:29,398 - WARNING - No stemming for: ظلم
+2025-04-03 13:46:29,523 - WARNING - No lemmatization for: فرخ
+2025-04-03 13:46:36,907 - WARNING - No stemming for: ذاك
+2025-04-03 13:46:36,998 - WARNING - No lemmatization for: ظلم
+2025-04-03 13:46:39,632 - WARNING - Échec de lemmatisation pour 'فما': Internal Error occurred!
+2025-04-03 13:46:39,632 - WARNING - Échec de lemmatisation pour 'الاسد': Internal Error occurred!
+2025-04-03 13:46:39,633 - WARNING - Échec de lemmatisation pour 'الشبل': Internal Error occurred!
+2025-04-03 13:46:39,633 - WARNING - No lemmatization for: فما
+2025-04-03 13:46:39,633 - WARNING - Échec de lemmatisation pour 'ذاك': Internal Error occurred!
+2025-04-03 13:46:39,633 - WARNING - No lemmatization for: الاسد
+2025-04-03 13:46:39,633 - WARNING - No lemmatization for: الشبل
+2025-04-03 13:46:39,634 - WARNING - No lemmatization for: ذاك
+2025-04-03 13:47:49,486 - INFO - NER initialisé avec succès
+2025-04-03 13:50:34,984 - INFO - Résultats stemmed sauvegardés dans C:\Users\DELL\PycharmProjects\NLProject\data\processed\stemmed_results.json
+2025-04-03 13:50:34,986 - INFO - Résultats lemmatized sauvegardés dans C:\Users\DELL\PycharmProjects\NLProject\data\processed\lemmatized_results.json
+2025-04-03 13:50:34,987 - INFO - Résultats ner sauvegardés dans C:\Users\DELL\PycharmProjects\NLProject\data\processed\ner_results.json
+2025-04-03 13:50:34,987 - INFO - 
+=== Statistiques NER ===
+2025-04-03 13:50:34,988 - INFO - Entités détectées: 1/12
+2025-04-03 13:50:34,988 - INFO - Taux de détection: 8.3%
+2025-04-03 13:50:34,988 - INFO - Temps total: 216.16s
+2025-04-03 13:55:50,551 - INFO - NER initialisé avec succès
+2025-04-03 14:01:32,441 - INFO - Résultats stemmed sauvegardés dans C:\Users\DELL\PycharmProjects\NLProject\data\processed\stemmed_results.json
+2025-04-03 14:01:32,445 - INFO - Résultats lemmatized sauvegardés dans C:\Users\DELL\PycharmProjects\NLProject\data\processed\lemmatized_results.json
+2025-04-03 14:01:32,449 - INFO - Résultats ner sauvegardés dans C:\Users\DELL\PycharmProjects\NLProject\data\processed\ner_results.json
+2025-04-03 14:01:32,450 - INFO - 
+=== Statistiques NER ===
+2025-04-03 14:01:32,450 - INFO - Entités détectées: 8/25
+2025-04-03 14:01:32,450 - INFO - Taux de détection: 32.0%
+2025-04-03 14:01:32,451 - INFO - Temps total: 378.10s
+2025-04-03 14:08:40,187 - INFO - Chargement des stopwords...
+2025-04-03 14:08:40,188 - INFO - 58 stopwords chargés
+2025-04-03 14:08:40,188 - INFO - Début du prétraitement...
+2025-04-03 14:08:40,445 - INFO - Données filtrées : 1 stopwords supprimés
+2025-04-03 14:08:40,446 - INFO - Données restantes : 24 entrées
+2025-04-03 14:08:40,446 - INFO - Initialisation des processeurs...
+2025-04-03 14:09:17,008 - INFO - NER initialisé avec succès
+2025-04-03 14:09:17,008 - INFO - Début du traitement parallèle...
+2025-04-03 14:14:08,100 - INFO - Sauvegarde des résultats...
+2025-04-03 14:14:08,102 - INFO - Résultats stemmed sauvegardés dans C:\Users\DELL\PycharmProjects\NLProject\data\processed\stemmed_results.json
+2025-04-03 14:14:08,104 - INFO - Résultats lemmatized sauvegardés dans C:\Users\DELL\PycharmProjects\NLProject\data\processed\lemmatized_results.json
+2025-04-03 14:14:08,106 - INFO - Résultats ner sauvegardés dans C:\Users\DELL\PycharmProjects\NLProject\data\processed\ner_results.json
+2025-04-03 14:14:08,106 - INFO - 
+=== Statistiques ===
+2025-04-03 14:14:08,106 - INFO - Entrées originales: 25
+2025-04-03 14:14:08,107 - INFO - Stopwords supprimés: 1
+2025-04-03 14:14:08,107 - INFO - Entrées traitées: 24
+2025-04-03 14:14:08,108 - INFO - Entités NER détectées: 8 (33.3%)
+2025-04-03 14:14:08,108 - INFO - Temps total: 327.92s
+2025-04-03 14:52:46,746 - INFO - Chargement des stopwords...
+2025-04-03 14:52:46,746 - INFO - 58 stopwords chargés
+2025-04-03 14:52:46,746 - INFO - Début du prétraitement...
+2025-04-03 14:52:47,025 - INFO - Données filtrées : 1 stopwords supprimés
+2025-04-03 14:52:47,025 - INFO - Données restantes : 24 entrées
+2025-04-03 14:52:47,025 - INFO - Initialisation des processeurs...
+2025-04-03 14:53:21,333 - INFO - NER initialisé avec succès
+2025-04-03 14:53:21,333 - INFO - Début du traitement parallèle...
+2025-04-03 14:58:12,691 - INFO - Sauvegarde des résultats...
+2025-04-03 14:58:12,693 - INFO - Résultats stemmed sauvegardés dans C:\Users\DELL\PycharmProjects\NLProject\data\processed\stemmed_results.json
+2025-04-03 14:58:12,694 - INFO - Résultats lemmatized sauvegardés dans C:\Users\DELL\PycharmProjects\NLProject\data\processed\lemmatized_results.json
+2025-04-03 14:58:12,696 - INFO - Résultats ner sauvegardés dans C:\Users\DELL\PycharmProjects\NLProject\data\processed\ner_results.json
+2025-04-03 14:58:12,696 - INFO - 
+=== Statistiques ===
+2025-04-03 14:58:12,696 - INFO - Entrées originales: 25
+2025-04-03 14:58:12,696 - INFO - Stopwords supprimés: 1
+2025-04-03 14:58:12,696 - INFO - Entrées traitées: 24
+2025-04-03 14:58:12,696 - INFO - Entités NER détectées: 8 (33.3%)
+2025-04-03 14:58:12,696 - INFO - Temps total: 325.95s
+2025-04-03 15:02:01,686 - INFO - Chargement des stopwords...
+2025-04-03 15:02:01,687 - INFO - 56 stopwords chargés
+2025-04-03 15:02:01,687 - INFO - Début du prétraitement...
+2025-04-03 15:02:01,925 - INFO - Stopwords filtrés : في
+2025-04-03 15:02:01,925 - INFO - Données après filtrage : 24 entrées (supprimé 1 stopwords)
+2025-04-03 15:02:01,925 - INFO - Initialisation des processeurs...
+2025-04-03 15:02:41,158 - INFO - NER initialisé avec succès
+2025-04-03 15:02:41,159 - INFO - Début du traitement parallèle...
+2025-04-03 15:07:34,902 - INFO - Sauvegarde des résultats...
+2025-04-03 15:07:34,904 - INFO - Résultats sauvegardés : C:\Users\DELL\PycharmProjects\NLProject\data\processed\stemmed_results.json
+2025-04-03 15:07:34,907 - INFO - Résultats sauvegardés : C:\Users\DELL\PycharmProjects\NLProject\data\processed\lemmatized_results.json
+2025-04-03 15:07:34,910 - INFO - Résultats sauvegardés : C:\Users\DELL\PycharmProjects\NLProject\data\processed\ner_results.json
+2025-04-03 15:07:34,910 - INFO - 
+=== Statistiques Finales ===
+2025-04-03 15:07:34,911 - INFO - Entrées originales    : 25
+2025-04-03 15:07:34,911 - INFO - Stopwords supprimés   : 1
+2025-04-03 15:07:34,911 - INFO - Entrées traitées      : 24
+2025-04-03 15:07:34,911 - INFO - Entités NER détectées : 8 (33.3%)
+2025-04-03 15:07:34,911 - INFO - 
+Temps total d'exécution : 333.23 secondes
+2025-04-03 15:57:19,749 - INFO - NER initialisé avec succès
+2025-04-03 16:01:53,106 - INFO - Résultats stemmed sauvegardés dans C:\Users\DELL\PycharmProjects\NLProject\data\processed\stemmed_results.json
+2025-04-03 16:01:53,107 - INFO - Résultats lemmatized sauvegardés dans C:\Users\DELL\PycharmProjects\NLProject\data\processed\lemmatized_results.json
+2025-04-03 16:01:53,108 - INFO - Résultats ner sauvegardés dans C:\Users\DELL\PycharmProjects\NLProject\data\processed\ner_results.json
+2025-04-03 16:01:53,108 - INFO - 
+=== Statistiques NER ===
+2025-04-03 16:01:53,108 - INFO - Entités détectées: 8/25
+2025-04-03 16:01:53,108 - INFO - Taux de détection: 32.0%
+2025-04-03 16:01:53,108 - INFO - Temps total: 292.62s
+2025-04-03 16:11:34,271 - INFO - Chargement des stopwords...
+2025-04-03 16:11:34,272 - INFO - 56 stopwords chargés
+2025-04-03 16:11:34,272 - INFO - Début du prétraitement...
+2025-04-03 16:11:34,403 - INFO - Stopwords filtrés : في
+2025-04-03 16:11:34,403 - INFO - Données après filtrage : 24 entrées (supprimé 1 stopwords)
+2025-04-03 16:11:34,403 - INFO - Initialisation des processeurs...
+2025-04-03 16:11:53,544 - INFO - NER initialisé avec succès
+2025-04-03 16:11:53,544 - INFO - Début du traitement parallèle...
+2025-04-03 16:16:24,853 - INFO - Sauvegarde des résultats...
+2025-04-03 16:16:24,854 - INFO - Résultats sauvegardés : C:\Users\DELL\PycharmProjects\NLProject\data\processed\stemmed_results.json
+2025-04-03 16:16:24,855 - INFO - Résultats sauvegardés : C:\Users\DELL\PycharmProjects\NLProject\data\processed\lemmatized_results.json
+2025-04-03 16:16:24,857 - INFO - Résultats sauvegardés : C:\Users\DELL\PycharmProjects\NLProject\data\processed\ner_results.json
+2025-04-03 16:16:24,858 - INFO - 
+=== Statistiques Finales ===
+2025-04-03 16:16:24,858 - INFO - Entrées originales    : 25
+2025-04-03 16:16:24,858 - INFO - Stopwords supprimés   : 1
+2025-04-03 16:16:24,858 - INFO - Entrées traitées      : 24
+2025-04-03 16:16:24,858 - INFO - Entités NER détectées : 8 (33.3%)
+2025-04-03 16:16:24,858 - INFO - 
+Temps total d'exécution : 290.59 secondes
+2025-04-03 16:43:45,300 - INFO - Chargement des stopwords...
+2025-04-03 16:43:45,302 - INFO - 56 stopwords chargés
+2025-04-03 16:43:45,302 - INFO - Début du prétraitement...
+2025-04-03 16:43:45,434 - INFO - Stopwords filtrés : في
+2025-04-03 16:43:45,434 - INFO - Données après filtrage : 24 entrées (supprimé 1 stopwords)
+2025-04-03 16:43:45,434 - INFO - Initialisation des processeurs...
+2025-04-03 16:44:05,257 - INFO - NER initialisé avec succès
+2025-04-03 16:44:05,258 - INFO - Début du traitement parallèle...
+2025-04-03 16:46:31,034 - ERROR - Erreur NER pour 'السعوديه...': [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\DELL\\PycharmProjects\\NLProject\\.venv\\Lib\\site-packages\\farasa\\tmp\\tmpyeuxqsi7'
+2025-04-03 16:49:10,982 - INFO - Sauvegarde des résultats...
+2025-04-03 16:49:10,984 - INFO - Résultats sauvegardés : C:\Users\DELL\PycharmProjects\NLProject\data\processed\stemmed_results.json
+2025-04-03 16:49:10,986 - INFO - Résultats sauvegardés : C:\Users\DELL\PycharmProjects\NLProject\data\processed\lemmatized_results.json
+2025-04-03 16:49:10,987 - INFO - Résultats sauvegardés : C:\Users\DELL\PycharmProjects\NLProject\data\processed\ner_results.json
+2025-04-03 16:49:10,988 - INFO - 
+=== Statistiques Finales ===
+2025-04-03 16:49:10,988 - INFO - Entrées originales    : 25
+2025-04-03 16:49:10,988 - INFO - Stopwords supprimés   : 1
+2025-04-03 16:49:10,988 - INFO - Entrées traitées      : 24
+2025-04-03 16:49:10,988 - INFO - Entités NER détectées : 7 (29.2%)
+2025-04-03 16:49:10,989 - INFO - 
+Temps total d'exécution : 325.69 secondes
+2025-04-03 20:32:25,051 - INFO - Chargement des stopwords...
+2025-04-03 20:32:25,052 - INFO - 56 stopwords chargés
+2025-04-03 20:32:25,052 - INFO - Début du prétraitement...
+2025-04-03 20:32:25,204 - INFO - Stopwords filtrés : في
+2025-04-03 20:32:25,204 - INFO - Données après filtrage : 24 entrées (supprimé 1 stopwords)
+2025-04-03 20:32:25,204 - INFO - Initialisation des processeurs...
+2025-04-03 20:32:37,737 - WARNING - Tentative 1 échouée, nouvelle tentative...
+2025-04-03 20:32:37,737 - ERROR - ERREUR: name 'time' is not defined
+Traceback (most recent call last):
+  File "C:\Users\DELL\PycharmProjects\NLProject\.venv\Lib\site-packages\farasa\__base.py", line 177, in _run_task
+    proc = subprocess.run(
+           ^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python312\Lib\subprocess.py", line 550, in run
+    stdout, stderr = process.communicate(input, timeout=timeout)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python312\Lib\subprocess.py", line 1201, in communicate
+    self.wait()
+  File "C:\Program Files\Python312\Lib\subprocess.py", line 1264, in wait
+    return self._wait(timeout=timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python312\Lib\subprocess.py", line 1588, in _wait
+    result = _winapi.WaitForSingleObject(self._handle,
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+KeyboardInterrupt
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\DELL\PycharmProjects\NLProject\src\preprocessing\ner.py", line 26, in _initialize_ner
+    test_result = ner.recognize("محمد من القاهرة")
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\PycharmProjects\NLProject\.venv\Lib\site-packages\farasa\ner.py", line 8, in recognize
+    return self._do_task(text=text)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\PycharmProjects\NLProject\.venv\Lib\site-packages\farasa\__base.py", line 238, in _do_task
+    return self._do_task_standalone(strip_text)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\PycharmProjects\NLProject\.venv\Lib\site-packages\farasa\__base.py", line 231, in _do_task_standalone
+    return self._run_task(btext=byted_strip_text)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\PycharmProjects\NLProject\.venv\Lib\site-packages\farasa\__base.py", line 195, in _run_task
+    os.unlink(itmp.name)
+PermissionError: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\DELL\\PycharmProjects\\NLProject\\.venv\\Lib\\site-packages\\farasa\\tmp\\tmpzym18168'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\DELL\PycharmProjects\NLProject\src\run.py", line 115, in main
+    ner_processor = ArabicNER()
+                    ^^^^^^^^^^^
+  File "C:\Users\DELL\PycharmProjects\NLProject\src\preprocessing\ner.py", line 10, in __init__
+    self.ner = self._initialize_ner()
+               ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\PycharmProjects\NLProject\src\preprocessing\ner.py", line 35, in _initialize_ner
+    time.sleep(self.retry_delay)
+    ^^^^
+NameError: name 'time' is not defined. Did you forget to import 'time'
+2025-04-03 20:32:37,743 - INFO - 
+Temps total d'exécution : 12.69 secondes
+2025-04-03 20:32:52,894 - INFO - Chargement des stopwords...
+2025-04-03 20:32:52,894 - INFO - 56 stopwords chargés
+2025-04-03 20:32:52,895 - INFO - Début du prétraitement...
+2025-04-03 20:32:53,021 - INFO - Stopwords filtrés : في
+2025-04-03 20:32:53,021 - INFO - Données après filtrage : 24 entrées (supprimé 1 stopwords)
+2025-04-03 20:32:53,021 - INFO - Initialisation des processeurs...
+2025-04-03 20:33:12,691 - INFO - NER initialisé avec succès
+2025-04-03 20:33:12,691 - INFO - Début du traitement combiné...
+2025-04-03 20:38:45,514 - INFO - Dictionnaire mis à jour sauvegardé : C:\Users\DELL\PycharmProjects\NLProject\data\processed\UpdatedDictionary.json
+2025-04-03 20:38:45,514 - INFO - 
+=== Statistiques Finales ===
+2025-04-03 20:38:45,515 - INFO - Entrées originales    : 25
+2025-04-03 20:38:45,515 - INFO - Stopwords supprimés   : 1
+2025-04-03 20:38:45,515 - INFO - Entrées traitées      : 24
+2025-04-03 20:38:45,515 - INFO - Entités NER détectées : 8 (33.3%)
+2025-04-03 20:38:45,515 - INFO - 
+Temps total d'exécution : 352.62 secondes
+2025-04-03 20:48:11,210 - INFO - Chargement des stopwords...
+2025-04-03 20:48:11,210 - INFO - 56 stopwords chargés
+2025-04-03 20:48:11,210 - INFO - Début du prétraitement...
+2025-04-03 20:48:11,346 - INFO - Stopwords filtrés : في, من
+2025-04-03 20:48:11,346 - INFO - Données après filtrage : 23 entrées (supprimé 2 stopwords)
+2025-04-03 20:48:11,346 - INFO - Initialisation des processeurs...
+2025-04-03 20:48:32,602 - INFO - NER initialisé avec succès
+2025-04-03 20:48:32,602 - INFO - Début du traitement combiné...
+2025-04-03 20:50:05,940 - ERROR - Erreur NER pour 'العامه...': [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\DELL\\PycharmProjects\\NLProject\\.venv\\Lib\\site-packages\\farasa\\tmp\\tmp9yy85c2_'
+2025-04-03 20:53:03,734 - INFO - Dictionnaire mis à jour sauvegardé : C:\Users\DELL\PycharmProjects\NLProject\data\processed\UpdatedDictionary.json
+2025-04-03 20:53:03,735 - INFO - 
+=== Statistiques Finales ===
+2025-04-03 20:53:03,735 - INFO - Entrées originales    : 25
+2025-04-03 20:53:03,735 - INFO - Stopwords supprimés   : 2
+2025-04-03 20:53:03,735 - INFO - Entrées traitées      : 23
+2025-04-03 20:53:03,735 - INFO - Entités NER détectées : 3 (13.0%)
+2025-04-03 20:53:03,735 - INFO - 
+Temps total d'exécution : 292.53 secondes
+2025-04-03 20:58:00,555 - INFO - Chargement des stopwords...
+2025-04-03 20:58:00,556 - INFO - 56 stopwords chargés
+2025-04-03 20:58:00,556 - INFO - Début du prétraitement...
+2025-04-03 20:58:00,678 - INFO - Stopwords filtrés : في, من
+2025-04-03 20:58:00,678 - INFO - Données après filtrage : 23 entrées (supprimé 2 stopwords)
+2025-04-03 20:58:00,678 - INFO - Initialisation des processeurs...
+2025-04-03 20:58:20,105 - INFO - NER initialisé avec succès
+2025-04-03 20:58:20,105 - INFO - Début du traitement parallèle...
+2025-04-03 21:02:35,248 - INFO - Sauvegarde des résultats...
+2025-04-03 21:02:35,249 - INFO - Résultats sauvegardés : C:\Users\DELL\PycharmProjects\NLProject\data\processed\stemmed_results.json
+2025-04-03 21:02:35,250 - INFO - Résultats sauvegardés : C:\Users\DELL\PycharmProjects\NLProject\data\processed\lemmatized_results.json
+2025-04-03 21:02:35,251 - INFO - Résultats sauvegardés : C:\Users\DELL\PycharmProjects\NLProject\data\processed\ner_results.json
+2025-04-03 21:02:35,251 - INFO - 
+=== Statistiques Finales ===
+2025-04-03 21:02:35,252 - INFO - Entrées originales    : 25
+2025-04-03 21:02:35,252 - INFO - Stopwords supprimés   : 2
+2025-04-03 21:02:35,252 - INFO - Entrées traitées      : 23
+2025-04-03 21:02:35,252 - INFO - Entités NER détectées : 3 (13.0%)
+2025-04-03 21:02:35,252 - INFO - 
+Temps total d'exécution : 274.70 secondes
+2025-04-03 21:23:59,751 - INFO - Chargement des stopwords...
+2025-04-03 21:23:59,752 - INFO - 56 stopwords chargés
+2025-04-03 21:23:59,752 - INFO - Début du prétraitement...
+2025-04-03 21:24:00,055 - INFO - Stopwords filtrés : في, من
+2025-04-03 21:24:00,055 - INFO - Données après filtrage : 23 entrées (supprimé 2 stopwords)
+2025-04-03 21:24:00,055 - INFO - Initialisation des processeurs...
+2025-04-03 21:24:36,249 - INFO - NER initialisé avec succès
+2025-04-03 21:24:36,250 - INFO - Début du traitement combiné...
+2025-04-03 21:29:44,044 - INFO - Dictionnaire mis à jour sauvegardé : C:\Users\DELL\PycharmProjects\NLProject\data\processed\UpdatedDictionary.json
+2025-04-03 21:29:44,044 - INFO - 
+=== Statistiques Finales ===
+2025-04-03 21:29:44,044 - INFO - Entrées originales    : 25
+2025-04-03 21:29:44,044 - INFO - Stopwords supprimés   : 2
+2025-04-03 21:29:44,044 - INFO - Entrées traitées      : 23
+2025-04-03 21:29:44,044 - INFO - Entités NER détectées : 3 (13.0%)
+2025-04-03 21:29:44,045 - INFO - 
+Temps total d'exécution : 344.29 secondes
+2025-04-03 21:33:42,852 - INFO - Chargement des stopwords...
+2025-04-03 21:33:42,853 - INFO - 56 stopwords chargés
+2025-04-03 21:33:42,853 - INFO - Début du prétraitement...
+2025-04-03 21:33:43,149 - INFO - Stopwords filtrés : في, من
+2025-04-03 21:33:43,150 - INFO - Données après filtrage : 23 entrées (supprimé 2 stopwords)
+2025-04-03 21:33:43,150 - INFO - Initialisation des processeurs...
+2025-04-03 21:34:29,517 - INFO - NER initialisé avec succès
+2025-04-03 21:34:29,517 - INFO - Début du traitement combiné...
+2025-04-03 21:42:42,625 - INFO - Dictionnaire mis à jour sauvegardé : C:\Users\DELL\PycharmProjects\NLProject\data\processed\UpdatedDictionary.json
+2025-04-03 21:42:42,625 - INFO - 
+=== Statistiques Finales ===
+2025-04-03 21:42:42,626 - INFO - Entrées originales    : 25
+2025-04-03 21:42:42,626 - INFO - Stopwords supprimés   : 2
+2025-04-03 21:42:42,626 - INFO - Entrées traitées      : 23
+2025-04-03 21:42:42,626 - INFO - Entités NER détectées : 3 (13.0%)
+2025-04-03 21:42:42,626 - INFO - 
+Temps total d'exécution : 539.77 secondes
+2025-04-03 22:48:23,455 - INFO - Chargement des stopwords...
+2025-04-03 22:48:23,456 - INFO - 56 stopwords chargés
+2025-04-03 22:48:23,456 - INFO - Début du prétraitement...
+2025-04-03 22:48:23,577 - INFO - Stopwords filtrés : في, من
+2025-04-03 22:48:23,578 - INFO - Données après filtrage : 23 entrées (supprimé 2 stopwords)
+2025-04-03 22:48:23,579 - INFO - Initialisation des processeurs...
+2025-04-03 22:48:42,688 - INFO - NER initialisé avec succès
+2025-04-03 22:48:42,688 - INFO - Début du traitement combiné...
+2025-04-03 22:51:44,834 - ERROR - Erreur NER pour 'الدكتور...': [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\DELL\\PycharmProjects\\NLProject\\.venv\\Lib\\site-packages\\farasa\\tmp\\tmpjxclk_u7'
+2025-04-03 22:55:22,836 - INFO - Dictionnaire mis à jour sauvegardé : C:\Users\DELL\PycharmProjects\NLProject\data\processed\UpdatedDictionary.json
+2025-04-03 22:55:22,837 - INFO - 
+=== Statistiques Finales ===
+2025-04-03 22:55:22,837 - INFO - Entrées originales    : 25
+2025-04-03 22:55:22,837 - INFO - Stopwords supprimés   : 2
+2025-04-03 22:55:22,837 - INFO - Entrées traitées      : 23
+2025-04-03 22:55:22,837 - INFO - Entités NER détectées : 3 (13.0%)
+2025-04-03 22:55:22,837 - INFO - 
+Temps total d'exécution : 419.38 secondes
+2025-04-08 21:16:17,672 - INFO - Chargement des stopwords...
+2025-04-08 21:16:17,678 - INFO - 57 stopwords chargés
+2025-04-08 21:16:17,678 - INFO - Début du prétraitement...
+2025-04-08 21:16:17,887 - INFO - Stopwords filtrés : عن, في, من
+2025-04-08 21:16:17,887 - INFO - Données après filtrage : 22 entrées (supprimé 3 stopwords)
+2025-04-08 21:16:17,887 - INFO - Initialisation des processeurs...
+2025-04-08 21:16:19,521 - INFO - 
+Temps total d'exécution : 1.85 secondes
+2025-04-08 21:21:38,570 - INFO - Chargement des stopwords...
+2025-04-08 21:21:38,577 - INFO - 57 stopwords chargés
+2025-04-08 21:21:38,577 - INFO - Début du prétraitement...
+2025-04-08 21:21:38,745 - INFO - Stopwords filtrés : عن, في, من
+2025-04-08 21:21:38,745 - INFO - Données après filtrage : 22 entrées (supprimé 3 stopwords)
+2025-04-08 21:21:38,745 - INFO - Initialisation des processeurs...
+2025-04-08 21:22:16,280 - INFO - NER initialisé avec succès
+2025-04-08 21:22:16,280 - INFO - Début du traitement combiné...
+2025-04-08 21:27:32,010 - INFO - Dictionnaire mis à jour sauvegardé : C:\Users\DELL\PycharmProjects\NLProject\data\processed\UpdatedDictionary.json
+2025-04-08 21:27:32,010 - INFO - 
+=== Statistiques Finales ===
+2025-04-08 21:27:32,010 - INFO - Entrées originales    : 25
+2025-04-08 21:27:32,010 - INFO - Stopwords supprimés   : 3
+2025-04-08 21:27:32,011 - INFO - Entrées traitées      : 22
+2025-04-08 21:27:32,011 - INFO - Entités NER détectées : 3 (13.6%)
+2025-04-08 21:27:32,012 - INFO - Dictionnaire initial réécrit au format avec total : C:\Users\DELL\PycharmProjects\NLProject\data\processed\initDictionary.json
+2025-04-08 21:27:32,012 - INFO - 
+Temps total d'exécution : 353.44 secondes
+2025-04-08 21:39:10,116 - INFO - Chargement des stopwords...
+2025-04-08 21:39:10,117 - INFO - 57 stopwords chargés
+2025-04-08 21:39:10,117 - INFO - Début du prétraitement...
+2025-04-08 21:39:10,357 - INFO - Stopwords filtrés : عن, في, من
+2025-04-08 21:39:10,357 - INFO - Données après filtrage : 22 entrées (supprimé 3 stopwords)
+2025-04-08 21:39:10,357 - INFO - Initialisation des processeurs...
+2025-04-08 21:39:51,855 - INFO - NER initialisé avec succès
+2025-04-08 21:39:51,856 - INFO - Début du traitement combiné...
+2025-04-08 21:45:24,364 - INFO - Dictionnaire mis à jour sauvegardé : C:\Users\DELL\PycharmProjects\NLProject\data\processed\UpdatedDictionary.json
+2025-04-08 21:45:24,364 - INFO - 
+=== Statistiques Finales ===
+2025-04-08 21:45:24,364 - INFO - Entrées originales    : 25
+2025-04-08 21:45:24,365 - INFO - Stopwords supprimés   : 3
+2025-04-08 21:45:24,365 - INFO - Entrées traitées      : 22
+2025-04-08 21:45:24,365 - INFO - Entités NER détectées : 3 (13.6%)
+2025-04-08 21:45:24,365 - INFO - 
+=== Comptage de mots ===
+2025-04-08 21:45:24,365 - INFO - initDictionary.json   : 25 mots
+2025-04-08 21:45:24,366 - INFO - UpdatedDictionary.json: 22 mots
+2025-04-08 21:45:24,366 - INFO - 
+Temps total d'exécution : 374.25 secondes
+2025-04-08 21:46:57,160 - INFO - Chargement des stopwords...
+2025-04-08 21:46:57,161 - INFO - 57 stopwords chargés
+2025-04-08 21:46:57,161 - INFO - Début du prétraitement...
+2025-04-08 21:46:57,393 - INFO - Stopwords filtrés : عن, في, من
+2025-04-08 21:46:57,393 - INFO - Données après filtrage : 22 entrées (supprimé 3 stopwords)
+2025-04-08 21:46:57,393 - INFO - Initialisation des processeurs...
+2025-04-08 21:47:45,814 - INFO - NER initialisé avec succès
+2025-04-08 21:47:45,814 - INFO - Début du traitement combiné...
+2025-04-08 21:52:32,894 - INFO - Dictionnaire mis à jour sauvegardé : C:\Users\DELL\PycharmProjects\NLProject\data\processed\UpdatedDictionary.json
+2025-04-08 21:52:32,894 - INFO - 
+=== Statistiques Finales ===
+2025-04-08 21:52:32,895 - INFO - Entrées originales    : 25
+2025-04-08 21:52:32,895 - INFO - Stopwords supprimés   : 3
+2025-04-08 21:52:32,895 - INFO - Entrées traitées      : 22
+2025-04-08 21:52:32,895 - INFO - Entités NER détectées : 3 (13.6%)
+2025-04-08 21:52:32,895 - INFO - 
+Temps total d'exécution : 335.73 secondes
+2025-04-08 21:54:02,262 - INFO - Chargement des stopwords...
+2025-04-08 21:54:02,263 - INFO - 57 stopwords chargés
+2025-04-08 21:54:02,263 - INFO - Début du prétraitement...
+2025-04-08 21:54:02,492 - INFO - Stopwords filtrés : عن, في, من
+2025-04-08 21:54:02,493 - INFO - Données après filtrage : 22 entrées (supprimé 3 stopwords)
+2025-04-08 21:54:02,493 - INFO - Début du traitement combiné avec ProcessPoolExecutor...
+2025-04-08 21:54:57,614 - INFO - NER initialisé avec succès
+2025-04-08 21:54:58,166 - INFO - NER initialisé avec succès
+2025-04-08 21:54:58,182 - INFO - NER initialisé avec succès
+2025-04-08 21:54:58,959 - INFO - NER initialisé avec succès
+2025-04-08 21:59:15,186 - INFO - Dictionnaire mis à jour sauvegardé : C:\Users\DELL\PycharmProjects\NLProject\data\processed\UpdatedDictionary.json
+2025-04-08 21:59:15,186 - INFO - 
+=== Statistiques Finales ===
+2025-04-08 21:59:15,186 - INFO - Entrées originales    : 25
+2025-04-08 21:59:15,187 - INFO - Stopwords supprimés   : 3
+2025-04-08 21:59:15,187 - INFO - Entrées traitées      : 22
+2025-04-08 21:59:15,187 - INFO - Entités NER détectées : 3 (13.6%)
+2025-04-08 21:59:15,187 - INFO - 
+Temps total d'exécution : 312.93 secondes
+2025-04-08 23:12:45,797 - INFO - Chargement des stopwords...
+2025-04-08 23:12:45,798 - INFO - 57 stopwords chargés
+2025-04-08 23:12:45,798 - INFO - Début du prétraitement...
+2025-04-08 23:12:45,995 - INFO - Stopwords filtrés : عن, في, من
+2025-04-08 23:12:45,995 - INFO - Données après filtrage : 22 entrées (supprimé 3 stopwords)
+2025-04-08 23:12:45,995 - INFO - Début du traitement combiné avec multiprocessing.Pool...
+2025-04-08 23:13:27,101 - INFO - NER initialisé avec succès
+2025-04-08 23:13:27,101 - INFO - NER initialisé avec succès dans un worker
+2025-04-08 23:13:27,300 - INFO - NER initialisé avec succès
+2025-04-08 23:13:27,301 - INFO - NER initialisé avec succès dans un worker
+2025-04-08 23:13:27,645 - INFO - NER initialisé avec succès
+2025-04-08 23:13:27,645 - INFO - NER initialisé avec succès dans un worker
+2025-04-08 23:13:29,067 - INFO - NER initialisé avec succès
+2025-04-08 23:13:29,068 - INFO - NER initialisé avec succès dans un worker
+2025-04-08 23:17:30,246 - INFO - Dictionnaire mis à jour sauvegardé : C:\Users\DELL\PycharmProjects\NLProject\data\processed\UpdatedDictionary.json
+2025-04-08 23:17:30,247 - INFO - 
+=== Statistiques Finales ===
+2025-04-08 23:17:30,247 - INFO - Entrées originales    : 25
+2025-04-08 23:17:30,247 - INFO - Stopwords supprimés   : 3
+2025-04-08 23:17:30,247 - INFO - Entrées traitées      : 22
+2025-04-08 23:17:30,247 - INFO - Entités NER détectées : 3 (13.6%)
+2025-04-08 23:17:30,247 - INFO - 
+Temps total d'exécution : 284.45 secondes
+2025-04-08 23:26:04,486 - INFO - Chargement des stopwords...
+2025-04-08 23:26:04,487 - INFO - 57 stopwords chargés
+2025-04-08 23:26:04,487 - INFO - Début du prétraitement...
+2025-04-08 23:26:04,613 - INFO - Stopwords filtrés : عن, في, من
+2025-04-08 23:26:04,613 - INFO - Données après filtrage : 22 entrées (supprimé 3 stopwords)
+2025-04-08 23:26:04,614 - INFO - Début du traitement combiné avec multiprocessing.Pool...
+2025-04-08 23:26:14,614 - INFO - Initialisation réussie des outils de stemming et lemmatisation dans un worker
+2025-04-08 23:26:14,804 - INFO - Initialisation réussie des outils de stemming et lemmatisation dans un worker
+2025-04-08 23:26:14,940 - INFO - Initialisation réussie des outils de stemming et lemmatisation dans un worker
+2025-04-08 23:26:15,056 - INFO - Initialisation réussie des outils de stemming et lemmatisation dans un worker
+2025-04-08 23:27:12,576 - INFO - Dictionnaire mis à jour sauvegardé : C:\Users\DELL\PycharmProjects\NLProject\data\processed\UpdatedDictionary.json
+2025-04-08 23:27:12,577 - INFO - 
+=== Statistiques Finales ===
+2025-04-08 23:27:12,577 - INFO - Entrées originales    : 25
+2025-04-08 23:27:12,577 - INFO - Stopwords supprimés   : 3
+2025-04-08 23:27:12,577 - INFO - Entrées traitées      : 22
+2025-04-08 23:27:12,577 - INFO - 
+Temps total d'exécution : 68.09 secondes
+2025-04-08 23:31:04,975 - INFO - Chargement des stopwords...
+2025-04-08 23:31:04,976 - INFO - 57 stopwords chargés
+2025-04-08 23:31:04,976 - INFO - Début du prétraitement...
+2025-04-08 23:31:05,097 - INFO - Stopwords filtrés : عن, في, من
+2025-04-08 23:31:05,097 - INFO - Données après filtrage : 22 entrées (supprimé 3 stopwords)
+2025-04-08 23:31:05,097 - INFO - Début du traitement combiné avec multiprocessing.Pool...
+2025-04-08 23:31:13,730 - INFO - Stemming et lemmatisation initialisés avec succès dans un worker
+2025-04-08 23:31:13,933 - INFO - Stemming et lemmatisation initialisés avec succès dans un worker
+2025-04-08 23:32:26,883 - INFO - Dictionnaire mis à jour sauvegardé : C:\Users\DELL\PycharmProjects\NLProject\data\processed\UpdatedDictionary.json
+2025-04-08 23:32:26,883 - INFO - 
+=== Statistiques Finales ===
+2025-04-08 23:32:26,884 - INFO - Entrées originales    : 25
+2025-04-08 23:32:26,884 - INFO - Stopwords supprimés   : 3
+2025-04-08 23:32:26,884 - INFO - Entrées traitées      : 22
+2025-04-08 23:32:26,884 - INFO - 
+Temps total d'exécution : 81.91 secondes
+2025-04-08 23:38:42,538 - INFO - Chargement des stopwords...
+2025-04-08 23:38:42,540 - INFO - 57 stopwords chargés
+2025-04-08 23:38:42,540 - INFO - Début du prétraitement...
+2025-04-08 23:38:42,833 - INFO - Stopwords filtrés : عن, في, من
+2025-04-08 23:38:42,833 - INFO - Données après filtrage : 22 entrées (supprimé 3 stopwords)
+2025-04-08 23:38:42,834 - INFO - Début du traitement combiné avec multiprocessing.Pool...
+2025-04-08 23:39:00,154 - INFO - Stemming et lemmatisation initialisés dans un worker
+2025-04-08 23:39:00,287 - INFO - Stemming et lemmatisation initialisés dans un worker
+2025-04-08 23:39:00,390 - INFO - Stemming et lemmatisation initialisés dans un worker
+2025-04-08 23:39:00,406 - INFO - Stemming et lemmatisation initialisés dans un worker
+2025-04-08 23:40:11,219 - INFO - Dictionnaire mis à jour sauvegardé : C:\Users\DELL\PycharmProjects\NLProject\data\processed\UpdatedDictionary.json
+2025-04-08 23:40:11,220 - INFO - 
+Temps total d'exécution : 88.68 secondes
+2025-04-08 23:42:07,223 - INFO - Chargement des stopwords...
+2025-04-08 23:42:07,224 - INFO - 57 stopwords chargés
+2025-04-08 23:42:07,224 - INFO - Début du prétraitement...
+2025-04-08 23:42:07,556 - INFO - Stopwords filtrés : عن, في, من
+2025-04-08 23:42:07,556 - INFO - Données après filtrage : 22 entrées (supprimé 3 stopwords)
+2025-04-08 23:42:07,556 - INFO - Initialisation des processeurs...
+2025-04-08 23:42:44,969 - INFO - NER initialisé avec succès
+2025-04-08 23:42:44,970 - INFO - Début du traitement combiné...
+2025-04-08 23:44:33,837 - ERROR - Erreur NER pour 'احمد...': [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\DELL\\PycharmProjects\\NLProject\\.venv\\Lib\\site-packages\\farasa\\tmp\\tmpr7a51y_f'
+2025-04-08 23:44:33,837 - ERROR - Erreur NER pour 'الذكاء...': [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\DELL\\PycharmProjects\\NLProject\\.venv\\Lib\\site-packages\\farasa\\tmp\\tmp66kynxyr'
+2025-04-08 23:44:33,837 - ERROR - Erreur NER pour 'محاضره...': [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\DELL\\PycharmProjects\\NLProject\\.venv\\Lib\\site-packages\\farasa\\tmp\\tmp592opvvc'
+2025-04-08 23:44:33,842 - ERROR - Erreur NER pour 'الدكتور...': [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\DELL\\PycharmProjects\\NLProject\\.venv\\Lib\\site-packages\\farasa\\tmp\\tmp7uvpkocw'
+2025-04-08 23:59:35,827 - INFO - Chargement des stopwords...
+2025-04-08 23:59:35,839 - INFO - 57 stopwords chargés
+2025-04-08 23:59:35,839 - INFO - Début du prétraitement...
+2025-04-08 23:59:36,138 - INFO - Stopwords filtrés : عن, في, من
+2025-04-08 23:59:36,138 - INFO - Données après filtrage : 22 entrées (supprimé 3 stopwords)
+2025-04-08 23:59:36,138 - INFO - Initialisation des processeurs...
+2025-04-09 00:00:17,173 - INFO - NER initialisé avec succès
+2025-04-09 00:00:17,173 - INFO - Début du traitement combiné...
+2025-04-09 00:04:11,530 - INFO - Dictionnaire mis à jour sauvegardé : C:\Users\DELL\PycharmProjects\NLProject\data\processed\UpdatedDictionary.json
+2025-04-09 00:04:11,530 - INFO - 
+=== Statistiques Finales ===
+2025-04-09 00:04:11,530 - INFO - Entrées originales    : 25
+2025-04-09 00:04:11,531 - INFO - Stopwords supprimés   : 3
+2025-04-09 00:04:11,531 - INFO - Entrées traitées      : 22
+2025-04-09 00:04:11,532 - INFO - Entités NER détectées : 3 (13.6%)
+2025-04-09 00:04:11,532 - INFO - 
+Temps total d'exécution : 275.71 secondes
+2025-04-09 00:20:23,060 - INFO - Chargement des stopwords...
+2025-04-09 00:20:23,061 - INFO - 57 stopwords chargés
+2025-04-09 00:20:23,062 - INFO - Début du prétraitement...
+2025-04-09 00:20:23,426 - INFO - Stopwords filtrés : عن, في, من
+2025-04-09 00:20:23,426 - INFO - Données après filtrage : 22 entrées (supprimé 3 stopwords)
+2025-04-09 00:20:23,427 - INFO - Initialisation des processeurs...
+2025-04-09 00:20:59,376 - INFO - NER initialisé avec succès
+2025-04-09 00:20:59,376 - INFO - Début du traitement combiné...
+2025-04-09 00:25:12,614 - INFO - Dictionnaire mis à jour sauvegardé : C:\Users\DELL\PycharmProjects\NLProject\data\processed\UpdatedDictionary.json
+2025-04-09 00:25:12,614 - INFO - 
+=== Statistiques Finales ===
+2025-04-09 00:25:12,614 - INFO - Entrées originales    : 25
+2025-04-09 00:25:12,614 - INFO - Stopwords supprimés   : 3
+2025-04-09 00:25:12,615 - INFO - Entrées traitées      : 22
+2025-04-09 00:25:12,615 - INFO - Entités NER détectées : 3 (13.6%)
+2025-04-09 00:25:12,615 - INFO - 
+Temps total d'exécution : 289.55 secondes
+2025-04-09 00:39:12,537 - INFO - Initialisation du pipeline...
+2025-04-09 00:39:12,537 - INFO - Chargement des stopwords...
+2025-04-09 00:39:12,542 - INFO - 57 stopwords chargés
+2025-04-09 00:39:12,542 - INFO - Traitement des fichiers sources...
+2025-04-09 00:39:12,778 - INFO - Chargement du dictionnaire initial...
+2025-04-09 00:39:12,780 - INFO - Stopwords filtrés (3 occurences)
+2025-04-09 00:39:12,781 - INFO - Données après filtrage: 22 entrées
+2025-04-09 00:39:12,781 - INFO - Initialisation des outils NLP...
+2025-04-09 00:40:42,202 - INFO - NER initialisé avec validation complète
+2025-04-09 00:40:42,202 - INFO - Début du traitement parallèle...
+2025-04-09 00:43:55,745 - INFO - Enrichissement du dictionnaire...
+2025-04-09 00:43:55,745 - INFO - Sauvegarde des résultats...
+2025-04-09 00:43:55,748 - INFO - 
+=== RAPPORT FINAL ===
+2025-04-09 00:43:55,748 - INFO - Entrées initiales   : 25
+2025-04-09 00:43:55,748 - INFO - Après filtrage      : 22
+2025-04-09 00:43:55,749 - INFO - Nouvelles entités   : 1
+2025-04-09 00:43:55,749 - INFO - Types d'entités     : {'LOC': 1}
+2025-04-09 00:43:55,749 - INFO - Temps d'exécution   : 283.21s
+2025-04-09 00:43:55,750 - INFO - Fichier de sortie   : C:\Users\DELL\PycharmProjects\NLProject\data\processed\EnrichedDictionary.json
+2025-04-09 00:43:55,750 - INFO - Pipeline terminé
+2025-04-09 00:48:48,361 - INFO - Initialisation du pipeline...
+2025-04-09 00:48:48,363 - INFO - Chargement des stopwords...
+2025-04-09 00:48:48,364 - INFO - 57 stopwords chargés
+2025-04-09 00:48:48,364 - INFO - Traitement des fichiers sources...
+2025-04-09 00:48:48,691 - INFO - Chargement du dictionnaire initial...
+2025-04-09 00:48:48,710 - INFO - Stopwords filtrés (3 occurences)
+2025-04-09 00:48:48,711 - INFO - Données après filtrage: 28 entrées
+2025-04-09 00:48:48,711 - INFO - Initialisation des outils NLP...
+2025-04-09 00:50:16,790 - INFO - NER initialisé avec validation complète
+2025-04-09 00:50:16,790 - INFO - Début du traitement parallèle...
+2025-04-09 00:53:35,198 - INFO - Enrichissement du dictionnaire...
+2025-04-09 00:53:35,199 - INFO - Sauvegarde des résultats...
+2025-04-09 00:53:35,201 - INFO - 
+=== RAPPORT FINAL ===
+2025-04-09 00:53:35,201 - INFO - Entrées initiales   : 31
+2025-04-09 00:53:35,201 - INFO - Après filtrage      : 28
+2025-04-09 00:53:35,201 - INFO - Nouvelles entités   : 3
+2025-04-09 00:53:35,201 - INFO - Types d'entités     : {'ORG': 1, 'PERS': 1, 'LOC': 1}
+2025-04-09 00:53:35,202 - INFO - Temps d'exécution   : 286.84s
+2025-04-09 00:53:35,202 - INFO - Fichier de sortie   : C:\Users\DELL\PycharmProjects\NLProject\data\processed\EnrichedDictionary.json
+2025-04-09 00:53:35,202 - INFO - Pipeline terminé
+2025-04-09 00:56:20,820 - INFO - Chargement des stopwords...
+2025-04-09 00:56:20,821 - INFO - 57 stopwords chargés
+2025-04-09 00:56:20,821 - INFO - Début du prétraitement...
+2025-04-09 00:56:21,083 - INFO - Stopwords filtrés : الي, في, من
+2025-04-09 00:56:21,083 - INFO - Données après filtrage : 28 entrées (supprimé 3 stopwords)
+2025-04-09 00:56:21,083 - INFO - Initialisation des processeurs...
+2025-04-09 00:56:52,772 - INFO - NER initialisé avec succès
+2025-04-09 00:56:52,772 - INFO - Début du traitement combiné...
+2025-04-09 01:00:15,756 - INFO - Dictionnaire mis à jour sauvegardé : C:\Users\DELL\PycharmProjects\NLProject\data\processed\UpdatedDictionary.json
+2025-04-09 01:00:15,756 - INFO - 
+=== Statistiques Finales ===
+2025-04-09 01:00:15,757 - INFO - Entrées originales    : 31
+2025-04-09 01:00:15,757 - INFO - Stopwords supprimés   : 3
+2025-04-09 01:00:15,757 - INFO - Entrées traitées      : 28
+2025-04-09 01:00:15,758 - INFO - Entités NER détectées : 10 (35.7%)
+2025-04-09 01:00:15,758 - INFO - 
+Temps total d'exécution : 234.94 secondes
+2025-04-09 01:04:45,238 - INFO - Chargement des stopwords...
+2025-04-09 01:04:45,239 - INFO - 57 stopwords chargés
+2025-04-09 01:04:45,239 - INFO - Début du prétraitement...
+2025-04-09 01:04:45,465 - INFO - Stopwords filtrés : الي, في, من
+2025-04-09 01:04:45,465 - INFO - Données après filtrage : 28 entrées (supprimé 3 stopwords)
+2025-04-09 01:04:45,465 - INFO - Début du traitement combiné avec multiprocessing.Pool...
+2025-04-09 01:05:36,678 - INFO - NER initialisé avec succès
+2025-04-09 01:05:36,678 - INFO - NER initialisé avec succès dans un worker
+2025-04-09 01:05:37,114 - INFO - NER initialisé avec succès
+2025-04-09 01:05:37,114 - INFO - NER initialisé avec succès dans un worker
+2025-04-09 01:05:37,288 - INFO - NER initialisé avec succès
+2025-04-09 01:05:37,288 - INFO - NER initialisé avec succès dans un worker
+2025-04-09 01:05:38,579 - INFO - NER initialisé avec succès
+2025-04-09 01:05:38,580 - INFO - NER initialisé avec succès dans un worker
+2025-04-09 01:11:27,677 - INFO - Dictionnaire mis à jour sauvegardé : C:\Users\DELL\PycharmProjects\NLProject\data\processed\UpdatedDictionary.json
+2025-04-09 01:11:27,677 - INFO - 
+=== Statistiques Finales ===
+2025-04-09 01:11:27,677 - INFO - Entrées originales    : 31
+2025-04-09 01:11:27,677 - INFO - Stopwords supprimés   : 3
+2025-04-09 01:11:27,678 - INFO - Entrées traitées      : 28
+2025-04-09 01:11:27,678 - INFO - Entités NER détectées : 8 (28.6%)
+2025-04-09 01:11:27,678 - INFO - 
+Temps total d'exécution : 402.44 secondes
+2025-04-09 01:12:14,676 - INFO - Chargement des stopwords...
+2025-04-09 01:12:14,676 - INFO - 57 stopwords chargés
+2025-04-09 01:12:14,676 - INFO - Début du prétraitement...
+2025-04-09 01:12:14,800 - INFO - Stopwords filtrés : الي, في, من
+2025-04-09 01:12:14,800 - INFO - Données après filtrage : 28 entrées (supprimé 3 stopwords)
+2025-04-09 01:12:14,800 - INFO - Début du traitement combiné avec multiprocessing.Pool...
+2025-04-09 01:13:00,423 - INFO - NER initialisé avec succès
+2025-04-09 01:13:00,423 - INFO - NER initialisé avec succès dans un worker
+2025-04-09 01:13:00,472 - INFO - NER initialisé avec succès
+2025-04-09 01:13:00,473 - INFO - NER initialisé avec succès dans un worker
+2025-04-09 01:13:01,657 - INFO - NER initialisé avec succès
+2025-04-09 01:13:01,658 - INFO - NER initialisé avec succès dans un worker
+2025-04-09 01:13:02,174 - INFO - NER initialisé avec succès
+2025-04-09 01:13:02,175 - INFO - NER initialisé avec succès dans un worker
+2025-04-09 01:15:56,805 - ERROR - Erreur NER pour 'كتابا...': [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\DELL\\PycharmProjects\\NLProject\\.venv\\Lib\\site-packages\\farasa\\tmp\\tmpocdvcay0'
+2025-04-09 01:18:41,279 - INFO - Dictionnaire mis à jour sauvegardé : C:\Users\DELL\PycharmProjects\NLProject\data\processed\UpdatedDictionary.json
+2025-04-09 01:18:41,279 - INFO - 
+=== Statistiques Finales ===
+2025-04-09 01:18:41,279 - INFO - Entrées originales    : 31
+2025-04-09 01:18:41,279 - INFO - Stopwords supprimés   : 3
+2025-04-09 01:18:41,279 - INFO - Entrées traitées      : 28
+2025-04-09 01:18:41,279 - INFO - Entités NER détectées : 8 (28.6%)
+2025-04-09 01:18:41,279 - INFO - 
+Temps total d'exécution : 386.60 secondes
+2025-04-09 01:22:24,728 - INFO - Chargement des stopwords...
+2025-04-09 01:22:24,729 - INFO - 57 stopwords chargés
+2025-04-09 01:22:24,729 - INFO - Début du prétraitement...
+2025-04-09 01:22:24,852 - INFO - Données après filtrage : 1 entrées (supprimé 0 stopwords)
+2025-04-09 01:22:24,852 - INFO - Début du traitement combiné avec multiprocessing.Pool...
+2025-04-09 01:23:02,658 - INFO - NER initialisé avec succès
+2025-04-09 01:23:02,658 - INFO - NER initialisé avec succès dans un worker
+2025-04-09 01:23:03,240 - INFO - NER initialisé avec succès
+2025-04-09 01:23:03,241 - INFO - NER initialisé avec succès dans un worker
+2025-04-09 01:23:03,386 - INFO - NER initialisé avec succès
+2025-04-09 01:23:03,386 - INFO - NER initialisé avec succès dans un worker
+2025-04-09 01:23:03,568 - INFO - NER initialisé avec succès
+2025-04-09 01:23:03,569 - INFO - NER initialisé avec succès dans un worker
+2025-04-09 01:23:23,644 - INFO - Dictionnaire mis à jour sauvegardé : C:\Users\DELL\PycharmProjects\NLProject\data\processed\UpdatedDictionary.json
+2025-04-09 01:23:23,644 - INFO - 
+=== Statistiques Finales ===
+2025-04-09 01:23:23,644 - INFO - Entrées originales    : 1
+2025-04-09 01:23:23,644 - INFO - Stopwords supprimés   : 0
+2025-04-09 01:23:23,644 - INFO - Entrées traitées      : 1
+2025-04-09 01:23:23,644 - INFO - Entités NER détectées : 0 (0.0%)
+2025-04-09 01:23:23,644 - INFO - 
+Temps total d'exécution : 58.92 secondes
+2025-04-09 01:24:27,305 - INFO - Chargement des stopwords...
+2025-04-09 01:24:27,305 - INFO - 57 stopwords chargés
+2025-04-09 01:24:27,305 - INFO - Début du prétraitement...
+2025-04-09 01:24:27,442 - INFO - Données après filtrage : 1 entrées (supprimé 0 stopwords)
+2025-04-09 01:24:27,442 - INFO - Début du traitement combiné avec multiprocessing.Pool...
+2025-04-09 01:25:08,559 - INFO - NER initialisé avec succès
+2025-04-09 01:25:08,560 - INFO - NER initialisé avec succès dans un worker
+2025-04-09 01:25:09,038 - INFO - NER initialisé avec succès
+2025-04-09 01:25:09,038 - INFO - NER initialisé avec succès dans un worker
+2025-04-09 01:25:09,158 - INFO - NER initialisé avec succès
+2025-04-09 01:25:09,159 - INFO - NER initialisé avec succès dans un worker
+2025-04-09 01:25:09,750 - INFO - NER initialisé avec succès
+2025-04-09 01:25:09,751 - INFO - NER initialisé avec succès dans un worker
+2025-04-09 01:25:30,084 - INFO - Dictionnaire mis à jour sauvegardé : C:\Users\DELL\PycharmProjects\NLProject\data\processed\UpdatedDictionary.json
+2025-04-09 01:25:30,084 - INFO - 
+=== Statistiques Finales ===
+2025-04-09 01:25:30,084 - INFO - Entrées originales    : 1
+2025-04-09 01:25:30,084 - INFO - Stopwords supprimés   : 0
+2025-04-09 01:25:30,084 - INFO - Entrées traitées      : 1
+2025-04-09 01:25:30,084 - INFO - Entités NER détectées : 0 (0.0%)
+2025-04-09 01:25:30,084 - INFO - 
+Temps total d'exécution : 62.78 secondes
+2025-04-09 01:33:55,419 - INFO - Chargement des stopwords...
+2025-04-09 01:33:55,420 - INFO - 57 stopwords chargés
+2025-04-09 01:33:55,420 - INFO - Début du prétraitement...
+2025-04-09 01:33:55,550 - INFO - Données après filtrage : 1 entrées (supprimé 0 stopwords)
+2025-04-09 01:33:55,550 - INFO - Initialisation des processeurs...
+2025-04-09 01:34:16,554 - INFO - NER initialisé avec succès
+2025-04-09 01:34:16,554 - INFO - Début du traitement combiné...
+2025-04-09 01:34:36,396 - INFO - Dictionnaire mis à jour sauvegardé : C:\Users\DELL\PycharmProjects\NLProject\data\processed\UpdatedDictionary.json
+2025-04-09 01:34:36,397 - INFO - 
+=== Statistiques Finales ===
+2025-04-09 01:34:36,397 - INFO - Entrées originales    : 1
+2025-04-09 01:34:36,397 - INFO - Stopwords supprimés   : 0
+2025-04-09 01:34:36,397 - INFO - Entrées traitées      : 1
+2025-04-09 01:34:36,397 - INFO - Entités NER détectées : 0 (0.0%)
+2025-04-09 01:34:36,397 - INFO - 
+Temps total d'exécution : 40.98 secondes
+2025-04-09 14:11:47,471 - INFO - Chargement des stopwords...
+2025-04-09 14:11:47,485 - INFO - 57 stopwords chargés
+2025-04-09 14:11:47,485 - INFO - Début du prétraitement...
+2025-04-09 14:11:47,845 - INFO - Données après filtrage : 33 entrées (supprimé 0 stopwords)
+2025-04-09 14:11:47,845 - INFO - Initialisation des processeurs...
+2025-04-09 14:12:32,001 - INFO - NER initialisé avec succès
+2025-04-09 14:12:32,001 - INFO - Début du traitement combiné...
+2025-04-09 14:14:28,769 - WARNING - Échec de lemmatisation pour 'ﺃﻓﻀل': [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\DELL\\PycharmProjects\\NLProject\\.venv\\Lib\\site-packages\\farasa\\tmp\\tmpovrj3qi2'
+2025-04-09 14:16:15,663 - WARNING - Échec de lemmatisation pour 'ﻗﺩ': Internal Error occurred!
+2025-04-09 14:16:15,663 - WARNING - Échec de lemmatisation pour 'ﺴﻴﺠﻌل': Internal Error occurred!
+2025-04-09 14:16:22,859 - INFO - Chargement des stopwords...
+2025-04-09 14:16:22,860 - INFO - 57 stopwords chargés
+2025-04-09 14:16:22,860 - INFO - Début du prétraitement...
+2025-04-09 14:16:23,097 - INFO - Stopwords filtrés : الذي, ان, اي
+2025-04-09 14:16:23,097 - INFO - Données après filtrage : 22 entrées (supprimé 3 stopwords)
+2025-04-09 14:16:23,097 - INFO - Initialisation des processeurs...
+2025-04-09 14:17:12,164 - INFO - NER initialisé avec succès
+2025-04-09 14:17:12,164 - INFO - Début du traitement combiné...
+2025-04-09 14:18:43,326 - WARNING - Échec du stemming pour 'كمثل': Internal Error occurred!
+2025-04-09 14:19:08,761 - INFO - Chargement des stopwords...
+2025-04-09 14:19:08,778 - INFO - 57 stopwords chargés
+2025-04-09 14:19:08,778 - INFO - Début du prétraitement...
+2025-04-09 14:19:14,278 - INFO - Stopwords filtrés : اذ, اذا, الا, التي, الذي, الذين, اللاتي, الي, ان, انت, انه, او, اي, ايضا, اين, بعد, بعض, ثم, حيث, حين, ذلك, ربما, علي, عن, عند, في, قبل, قد, كان, كل, كم, كيف, لا, لكن, لم, لماذا, ليس, ما, ماذا, متي, مع, من, نعم, هؤلاء, هذا, هذه, هم, هنا, هناك, هو, هي, والتي, والذي
+2025-04-09 14:19:14,280 - INFO - Données après filtrage : 114395 entrées (supprimé 53 stopwords)
+2025-04-09 14:19:14,281 - INFO - Initialisation des processeurs...
+2025-04-09 14:19:56,021 - INFO - NER initialisé avec succès
+2025-04-09 14:19:56,021 - INFO - Début du traitement combiné...
+2025-04-09 14:21:05,740 - ERROR - Erreur NER pour 'كن مرنا تفكيرك ...': [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\DELL\\PycharmProjects\\NLProject\\.venv\\Lib\\site-packages\\farasa\\tmp\\tmpig92uqjz'
+2025-04-09 14:21:05,743 - ERROR - Erreur NER pour 'سوف يتقدم بك ال...': [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\DELL\\PycharmProjects\\NLProject\\.venv\\Lib\\site-packages\\farasa\\tmp\\tmpwv845jo9'
+2025-04-09 14:21:05,762 - ERROR - Erreur NER pour 'كرامه باس با مش...': [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\DELL\\PycharmProjects\\NLProject\\.venv\\Lib\\site-packages\\farasa\\tmp\\tmpkl0u1jj_'
+2025-04-09 14:21:05,789 - ERROR - Erreur NER pour 'بحس الدعابه تخي...': [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\DELL\\PycharmProjects\\NLProject\\.venv\\Lib\\site-packages\\farasa\\tmp\\tmp2zsz15dx'
+2025-04-09 14:21:05,844 - ERROR - Erreur NER pour 'دائما حل المشكل...': [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\DELL\\PycharmProjects\\NLProject\\.venv\\Lib\\site-packages\\farasa\\tmp\\tmp6iifndoy'
+2025-04-09 14:21:05,845 - ERROR - Erreur NER pour 'بنفسك احرص العا...': [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\DELL\\PycharmProjects\\NLProject\\.venv\\Lib\\site-packages\\farasa\\tmp\\tmptg4_ld19'
+2025-04-09 14:21:05,890 - ERROR - Erreur NER pour 'به ولیس الثاني ...': [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\DELL\\PycharmProjects\\NLProject\\.venv\\Lib\\site-packages\\farasa\\tmp\\tmpp00m2gkf'
+2025-04-09 14:21:05,893 - ERROR - Erreur NER pour 'الخاص خوف مفاجا...': [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\DELL\\PycharmProjects\\NLProject\\.venv\\Lib\\site-packages\\farasa\\tmp\\tmppdztsxue'
